@@ -1,0 +1,9 @@
+Pillow
+piexif
+pytesseract
+opencv-python
+numpy
+pandas
+matplotlib
+markdown
+pytest
